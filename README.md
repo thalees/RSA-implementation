@@ -71,7 +71,7 @@ After performing the initial setup, just run the application:
 ```
 python cli.py
 ```
-
+![Application Gif](application.gif)
 ## Tests
 
 To run the tests, just run the command below:

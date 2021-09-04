@@ -18,7 +18,7 @@ style = style_from_dict({
     Token.Question: '',
 })
 
-def log(string, color="blue", font="slant", figlet=False):
+def log(string, color="yellow", font="slant", figlet=False):
     if colored:
         if not figlet:
             six.print_(colored(string, color))
