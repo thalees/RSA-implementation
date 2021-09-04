@@ -1,9 +1,17 @@
+attrs==21.2.0
 click==8.0.1
+iniconfig==1.1.1
+packaging==21.0
+pluggy==1.0.0
 prompt-toolkit==1.0.14
+py==1.10.0
 pyfiglet==0.8.post1
 Pygments==2.10.0
 PyInquirer==1.0.3
+pyparsing==2.4.7
+pytest==6.2.5
 regex==2021.8.28
 six==1.16.0
 termcolor==1.1.0
+toml==0.10.2
 wcwidth==0.2.5
