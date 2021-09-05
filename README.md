@@ -8,7 +8,8 @@
   <a href="#installation-and-requirements">Installation and Requirements</a> • 
   <a href="#how-to-run">How to run</a> •  
   <a href="#tests">Tests</a> • 
-  <a href="#license">License</a>
+  <a href="#license">License</a> • 
+  <a href="README.md">pt-BR</a>
 </p>
 
 ## Concecpt
@@ -60,7 +61,7 @@ After cloning that repository, create a virtualenv and activate:
 python -m virtualenv venv && . venv/bin/activate
 ```
 
-Finally install the necessary dependencies::
+Finally install the necessary dependencies:
 ```
 pip install -r requirements.txt
 ```
