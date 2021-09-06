@@ -8,7 +8,8 @@
   <a href="#installation-and-requirements">Installation and Requirements</a> • 
   <a href="#how-to-run">How to run</a> •  
   <a href="#tests">Tests</a> • 
-  <a href="#license">License</a>
+  <a href="#license">License</a> • 
+  <a href="README-PTBR.md">pt-BR</a>
 </p>
 
 ## Concecpt
@@ -27,7 +28,7 @@ The RSA algorithm is named after those who invented it in 1978: Ron Rivest, Adi 
 
 5. Calculate `d` such that `e.d = 1 mod ϕ(n)`
 
-Add can be found using the extended euclidean algorithm. The pair (n,d) makes up the private key.
+The `d` can be found using the extended euclidean algorithm. The pair (n,d) makes up the private key.
 
 ### Encryption
 Given a plaintext P, represented as a number, the ciphertext C is calculated as:
@@ -60,7 +61,7 @@ After cloning that repository, create a virtualenv and activate:
 python -m virtualenv venv && . venv/bin/activate
 ```
 
-Finally install the necessary dependencies::
+Finally install the necessary dependencies:
 ```
 pip install -r requirements.txt
 ```
