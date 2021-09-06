@@ -29,7 +29,7 @@ O algoritmo RSA tem o nome daqueles que o inventaram em 1978: ROn Rivest, Adi Sh
 
 5. Calcule `d` de modo que `e.d = 1 mod ϕ(n)`
 
-**TRANSLATE HERE: Add can be found using the extended euclidean algorithm. The pair (n,d) makes up the private key.**
+O `d` pode ser encontrado usando o algoritmo euclidiano estendido. O par (n, d) constitui a chave privada.
 
 ### Criptografia
 
