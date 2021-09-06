@@ -9,7 +9,7 @@
   <a href="#how-to-run">How to run</a> •  
   <a href="#tests">Tests</a> • 
   <a href="#license">License</a> • 
-  <a href="README.md">pt-BR</a>
+  <a href="README-PTBR.md">pt-BR</a>
 </p>
 
 ## Concecpt
